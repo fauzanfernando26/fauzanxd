@@ -1,9 +1,9 @@
-# fauzanxd
+# Perintah
 
 
-fauzanxd
 
-Perintah
+
+
 
 $ pkg update && pkg upgrade
 
